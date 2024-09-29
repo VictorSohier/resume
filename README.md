@@ -59,27 +59,6 @@ An application written in C to emulate the behavior of a 6502 and meant to be ex
 
 An attempt at a faster WC written in C. Works with UTF-8 and SIMD-ized
 
-## Education
-
-### Self Taught
-
-Current Influences:
-
-- [Casey Muratori](https://www.youtube.com/@MollyRocket)
-    - Performance awareness
-- [Ben Eater](https://www.youtube.com/@BenEater)
-    - Software at a hardware level (his 6502 and breadboard computer series)
-- [Tsoding](https://www.youtube.com/@TsodingDaily)
-    - Motivation to learn C
-
-### Formal
-
-#### Mohawk College
-
-Hamilton, Ontario
-
-Computer Systems Technology - Software Development - 559
-
 ## Other
 
 I have been daily driving some flavor linux for the past two or three years as my primary operating system of choice.
