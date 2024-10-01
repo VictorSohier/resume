@@ -59,6 +59,10 @@ An application written in C to emulate the behavior of a 6502 and meant to be ex
 
 An attempt at a faster WC written in C. Works with UTF-8 and SIMD-ized
 
+### [HTTZ Server](https://gitlab.com/T3CHN01200/httz-server)
+
+My very own HTTP server written in Zig with absolutely no third party dependencies. Built from basic sockets.
+
 ## Other
 
 I have been daily driving some flavor linux for the past two or three years as my primary operating system of choice.
