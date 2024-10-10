@@ -4,13 +4,11 @@ Email: [1sohiervic@gmail.com](mailto:1sohiervic@gmail.com)
 
 Phone (mobile): (905) 741-6062
 
-[Github](https://github.com/VictorSohier) -
+## LINKS!!! CLICK THEM!
+
+[Linkedin](https://www.linkedin.com/in/victor-s-57309a137/) -
 [Gitlab](https://gitlab.com/T3CHN01200) -
-[Linkedin](https://www.linkedin.com/in/victor-s-57309a137/)
-
-## Skills
-
-Programming - C# - C - C++ - SQL - Git - Linux - Bash - Odin - Zig - JavaScript
+[Github](https://github.com/VictorSohier)
 
 ## Work History
 
@@ -47,22 +45,55 @@ Programming - C# - C - C++ - SQL - Git - Linux - Bash - Odin - Zig - JavaScript
 - MVP, mock and implement features for a new survey platform written in C# using ASP.NET MVC with CosmoDB and MSSQL as
     backing stores deployed in Azure.
 
-## Projects
+### Full Stack Software Developer Internship | 2019-09-03 - 2019-12-23
 
-### [6502 Emulator](https://gitlab.com/T3CHN01200/6502-emulator)
+#### Orbis Communications
 
-An application written in C to emulate the behavior of a 6502 and meant to be extensible to variants thereof.
+- Contrirbuted to a monolithic ASP.NET Core 3.0 MVC codebase with small bits of Vue.js
+- Contrirbuted to a Visual Studio extenssion for easy an addition of language snippets to localization resources
+- Built out the bulk of a data grid system
+- Wrote an Electron app for translators to be better able to translate the XML based localization resources
 
-- Written largely over 2 months worth of weekends and holidays.
-
-### [FastWC](https://gitlab.com/T3CHN01200/FastWC)
-
-An attempt at a faster WC written in C. Works with UTF-8 and SIMD-ized
+## Projects (Yes, the titles are LINKS!!! CLICK THEM!)
 
 ### [HTTZ Server](https://gitlab.com/T3CHN01200/httz-server)
 
 My very own HTTP server written in Zig with absolutely no third party dependencies. Built from basic sockets.
 
-## Other
+### [WL Odin](https://gitlab.com/T3CHN01200/wl-odin)
 
-I have been daily driving some flavor linux for the past two or three years as my primary operating system of choice.
+Wayland bindings for Odin
+
+### [FastWC](https://gitlab.com/T3CHN01200/FastWC)
+
+An attempt at a faster WC written in C. Works with UTF-8 and SIMD-ized
+
+### [6502 Emulator](https://gitlab.com/T3CHN01200/6502-emulator)
+
+An application written in C to emulate the behavior of a 6502 and meant to be extensible to variants thereof.
+
+### Home Lab
+
+My proxmox based home lab that hosts my NAS
+
+## Education
+
+### Mohawk College | 2017-09-04 - 2020-12-24
+
+Advanced Diploma (~Associate's Degree)
+
+Maj: Computer Sicence
+
+### Self Education | 2009-02-XX - Present
+
+#### Notable skills:
+
+- Programming
+- C
+- C++
+- SIMD
+- Git
+- Odin
+- Zig
+- Optimization
+- Javascript
