@@ -33,7 +33,7 @@ Phone (mobile): (905) 741-6062
     primarily in C#.
 - Responsible in part for incident response.
 
-### Canadian Coalition for Green Health Care | Remote | Junior Software Developer | 2021-06-28 - 2022-03-31
+### Canadian Coalition for Green Health Care | Junior Software Developer | Remote | 2021-06-28 - 2022-03-31
 
 - Extended an existing Wordpress site with file sharing functionality.
 - MVP, mock and implement features for a new survey platform written in C# using ASP.NET MVC with CosmoDB and MSSQL as
