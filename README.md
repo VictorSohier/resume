@@ -12,9 +12,7 @@ Phone (mobile): (905) 741-6062
 
 ## Work History
 
-### Intermediate Software Developer | 2023-11-01 - 2024-06-28
-
-#### InvestorCOM
+### InvestorCOM | Intermediate Software Developer | Remote | 2023-11-01 - 2024-06-28
 
 - Designed and implemented a RabbitMQ spam tool to verify the effects of worker processes including memory leaks.
     Written in C#.
@@ -22,9 +20,7 @@ Phone (mobile): (905) 741-6062
     worker applications, 9 databases, 4 blob storages in one distributed system written primarily in C#.
 - Responsible in part for incident response.
 
-### Junior Software Developer | 2022-06-27 - 2023-10-31
-
-#### InvestorCOM
+### InvestorCOM | Junior Software Developer | Remote | 2022-06-27 - 2023-10-31
 
 - Designed and implemented a static code analyzer looking for C-style string literals, saving 2 days of work searching
     for string literals to verify the contents had no security implications. Written in C.
@@ -37,17 +33,13 @@ Phone (mobile): (905) 741-6062
     primarily in C#.
 - Responsible in part for incident response.
 
-### Junior Software Developer | 2021-06-28 - 2022-03-31
-
-#### Canadian Coalition for Green Health Care
+### Canadian Coalition for Green Health Care | Remote | Junior Software Developer | 2021-06-28 - 2022-03-31
 
 - Extended an existing Wordpress site with file sharing functionality.
 - MVP, mock and implement features for a new survey platform written in C# using ASP.NET MVC with CosmoDB and MSSQL as
     backing stores deployed in Azure.
 
-### Full Stack Software Developer Internship | 2019-09-03 - 2019-12-23
-
-#### Orbis Communications
+### Orbis Communications | Full Stack Software Developer Internship | Hamilton, ON | 2019-09-03 - 2019-12-23
 
 - Contrirbuted to a monolithic ASP.NET Core 3.0 MVC codebase with small bits of Vue.js
 - Contrirbuted to a Visual Studio extenssion for easy an addition of language snippets to localization resources
