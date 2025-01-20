@@ -4,6 +4,11 @@ Email: [1sohiervic@gmail.com](mailto:1sohiervic@gmail.com)
 
 Phone (mobile): (905) 741-6062
 
+## Summary
+
+- 4 years professional experience writing software, predominantly in C#
+- Programming as a hobby for 15+ years
+
 ## LINKS!!! CLICK THEM!
 
 [Linkedin](https://www.linkedin.com/in/victor-s-57309a137/) -
