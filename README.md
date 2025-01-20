@@ -17,9 +17,9 @@ Phone (mobile): (905) 741-6062
 #### InvestorCOM
 
 - Designed and implemented a RabbitMQ spam tool to verify the effects of worker processes including memory leaks.
-    Written in C#.
+	Written in C#.
 - Contributions made to 8 internal repositories, totalling 26 binaries between Blazor based SPAs, APIs in ASP.NET and
-    worker applications, 9 databases, 4 blob storages in one distributed system written primarily in C#.
+	worker applications, 9 databases, 4 blob storages in one distributed system written primarily in C#.
 - Responsible in part for incident response.
 
 ### Junior Software Developer | 2022-06-27 - 2023-10-31
@@ -27,14 +27,14 @@ Phone (mobile): (905) 741-6062
 #### InvestorCOM
 
 - Designed and implemented a static code analyzer looking for C-style string literals, saving 2 days of work searching
-    for string literals to verify the contents had no security implications. Written in C.
+	for string literals to verify the contents had no security implications. Written in C.
 - Designed and implemented a code generation utility utilizing the rows of a CSV and a template file as input. Written
-    in C#.
+	in C#.
 - Contributed to the rewrite of 2 legacy services.
 - Major contributor to 2 completely green field developments.
 - Contributions made to 11 internal repositories deployed to production, totalling 28 binaries between Blazor based
-    SPAs, APIs in ASP.NET and worker applications, 10 databases, 4 blob storages in one distributed system written
-    primarily in C#.
+	SPAs, APIs in ASP.NET and worker applications, 10 databases, 4 blob storages in one distributed system written
+	primarily in C#.
 - Responsible in part for incident response.
 
 ### Junior Software Developer | 2021-06-28 - 2022-03-31
@@ -43,7 +43,7 @@ Phone (mobile): (905) 741-6062
 
 - Extended an existing Wordpress site with file sharing functionality.
 - MVP, mock and implement features for a new survey platform written in C# using ASP.NET MVC with CosmoDB and MSSQL as
-    backing stores deployed in Azure.
+	backing stores deployed in Azure.
 
 ### Full Stack Software Developer Internship | 2019-09-03 - 2019-12-23
 
@@ -86,14 +86,18 @@ Maj: Computer Sicence
 
 ### Self Education | 2009-02-XX - Present
 
-#### Notable skills:
+## Skills
 
-- Programming
-- C
-- C++
-- SIMD
+- Programming (C# (.NET Core and Framework), C, C++, Zig, Odin, Javascript)
+	- Various web services
+	- Worker processes
+	- ETL processes
+	- Command line tools
+	- Graphical tools
+	- Visual Studio extensions
+	- SIMD
 - Git
-- Odin
-- Zig
-- Optimization
-- Javascript
+- Linux
+	- Web server deployments
+	- Homelab
+	- Daily usage
