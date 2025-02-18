@@ -10,6 +10,38 @@ Phone (mobile): (905) 741-6062
 [Gitlab](https://gitlab.com/T3CHN01200) -
 [Github](https://github.com/VictorSohier)
 
+## Skills
+
+- Git
+	- Literally every project listed here uses git for version control
+- Linux
+	- Web server deployments
+	- Homelab | 4 years
+	- Daily usage | 3+ years
+- Programming | Every following skill
+	- C#
+		- 2 years at InvestorCOM writing ASP.NET MVC backends, Blazor WASM SPAs, RabbitMQ Workers, an ETL application
+			and the occasional command line tool
+		- 1 year at InvestorCOM maintaining legacy applications
+		- 10 months at Canadian Coalition for Green Health Care writing an ASP.NET MVC application
+		- 4 months at Orbis communications adding features to an existing system and writing a Visual Studio extension
+	- C
+		- The occasional command line tool at InvestorCOM
+		- My 6502 emulator
+		- FastWC, a wc clone that uses SIMD to count UTF-8 characters
+	- Zig
+		- HTTZ | An HTTP server written in Zig as a hobby project
+	- Odin
+		- A cross platform template for applications interfacing with Vulkan, using FFI hooks into Wayland
+	- Javascript
+		- The occasional front-end use case not covered by Blazor WASM at InvestorCOM
+		- Front-end work for Canadian Coalition for Green Healthcare and Orbis Communications
+		- An electron based app for translators at Orbis Communications
+	- SIMD
+		- FastWC
+	- FFI
+		- Cross platform Vulkan application template
+
 ## Work History
 
 ### Intermediate Software Developer | 2023-11-01 - 2024-06-28
@@ -85,19 +117,3 @@ Advanced Diploma (~Associate's Degree)
 Maj: Computer Sicence
 
 ### Self Education | 2009-02-XX - Present
-
-## Skills
-
-- Programming (C# (.NET Core and Framework), C, C++, Zig, Odin, Javascript)
-	- Various web services
-	- Worker processes
-	- ETL processes
-	- Command line tools
-	- Graphical tools
-	- Visual Studio extensions
-	- SIMD
-- Git
-- Linux
-	- Web server deployments
-	- Homelab
-	- Daily usage
