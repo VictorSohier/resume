@@ -6,7 +6,7 @@ Phone (mobile): (905) 741-6062
 
 Hamilton, Ontario
 
-## LINKS!!! CLICK THEM!
+## Portfolios
 
 [Linkedin](https://www.linkedin.com/in/victor-s-57309a137/) -
 [Gitlab](https://gitlab.com/T3CHN01200) -
@@ -56,7 +56,7 @@ Hamilton, Ontario
 - Built out the bulk of a data grid system
 - Wrote an Electron app for translators to be better able to translate the XML based localization resources
 
-## Projects (Yes, the titles are LINKS!!! CLICK THEM!)
+## Projects
 
 ### [HTTZ Server](https://gitlab.com/T3CHN01200/httz-server)
 
