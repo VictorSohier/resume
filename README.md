@@ -2,6 +2,8 @@
 
 Email: [1sohiervic@gmail.com](mailto:1sohiervic@gmail.com)
 
+Linkedin: [Linkedin](https://www.linkedin.com/in/victor-s-57309a137/)
+
 Phone (mobile): (905) 741-6062
 
 ## Summary
@@ -9,9 +11,9 @@ Phone (mobile): (905) 741-6062
 - 4 years professional experience writing software, predominantly in C#
 - Programming as a hobby for 15+ years
 
-## LINKS!!! CLICK THEM!
 
-[Linkedin](https://www.linkedin.com/in/victor-s-57309a137/) -
+## Portfolios
+
 [Gitlab](https://gitlab.com/T3CHN01200) -
 [Github](https://github.com/VictorSohier)
 
@@ -59,7 +61,7 @@ Phone (mobile): (905) 741-6062
 - Built out the bulk of a data grid system
 - Wrote an Electron app for translators to be better able to translate the XML based localization resources
 
-## Projects (Yes, the titles are LINKS!!! CLICK THEM!)
+## Projects
 
 ### [HTTZ Server](https://gitlab.com/T3CHN01200/httz-server)
 
