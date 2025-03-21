@@ -8,9 +8,8 @@ Phone (mobile): (905) 741-6062
 
 ## Summary
 
-- 4 years professional experience writing software, predominantly in C#
-- Programming as a hobby for 15+ years
-
+A ***programmer*** with 4 years of programming experience who strives for excellence with no compromises between
+simplicity, performance and maintainability.
 
 ## Portfolios
 
