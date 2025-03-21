@@ -121,5 +121,3 @@ My proxmox based home lab that hosts my NAS
 Advanced Diploma (~Associate's Degree)
 
 Maj: Computer Sicence
-
-### Self Education | 2009-02-XX - Present
