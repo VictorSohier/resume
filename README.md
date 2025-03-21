@@ -8,8 +8,8 @@ Phone (mobile): (905) 741-6062
 
 ## Summary
 
-A ***programmer*** with 4 years of programming experience who strives for excellence with no compromises between
-simplicity, performance and maintainability.
+A polyglot procedural ***programmer*** with 4 years of programming experience who strives for excellence with no
+compromises between simplicity, performance and maintainability.
 
 ## Portfolios
 
