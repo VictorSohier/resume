@@ -48,6 +48,28 @@ simplicity, performance and maintainability.
 	- FFI
 		- Cross platform Vulkan application template
 
+## Projects
+
+### [HTTZ Server](https://gitlab.com/T3CHN01200/httz-server)
+
+My very own HTTP server written in Zig with absolutely no third party dependencies. Built from basic sockets.
+
+### [WL Odin](https://gitlab.com/T3CHN01200/wl-odin)
+
+Wayland bindings for Odin
+
+### [FastWC](https://gitlab.com/T3CHN01200/FastWC)
+
+An attempt at a faster WC written in C. Works with UTF-8 and SIMD-ized
+
+### [6502 Emulator](https://gitlab.com/T3CHN01200/6502-emulator)
+
+An application written in C to emulate the behavior of a 6502 and meant to be extensible to variants thereof.
+
+### Home Lab
+
+My proxmox based home lab that hosts my NAS
+
 ## Work History
 
 ### Intermediate Software Developer | 2023-11-01 - 2024-06-28
@@ -91,28 +113,6 @@ simplicity, performance and maintainability.
 - Contrirbuted to a Visual Studio extenssion for easy an addition of language snippets to localization resources
 - Built out the bulk of a data grid system
 - Wrote an Electron app for translators to be better able to translate the XML based localization resources
-
-## Projects
-
-### [HTTZ Server](https://gitlab.com/T3CHN01200/httz-server)
-
-My very own HTTP server written in Zig with absolutely no third party dependencies. Built from basic sockets.
-
-### [WL Odin](https://gitlab.com/T3CHN01200/wl-odin)
-
-Wayland bindings for Odin
-
-### [FastWC](https://gitlab.com/T3CHN01200/FastWC)
-
-An attempt at a faster WC written in C. Works with UTF-8 and SIMD-ized
-
-### [6502 Emulator](https://gitlab.com/T3CHN01200/6502-emulator)
-
-An application written in C to emulate the behavior of a 6502 and meant to be extensible to variants thereof.
-
-### Home Lab
-
-My proxmox based home lab that hosts my NAS
 
 ## Education
 
