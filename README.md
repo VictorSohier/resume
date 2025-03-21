@@ -16,6 +16,38 @@ simplicity, performance and maintainability.
 [Gitlab](https://gitlab.com/T3CHN01200) -
 [Github](https://github.com/VictorSohier)
 
+## Skills
+
+- Git
+	- Literally every project listed here uses git for version control
+- Linux
+	- Web server deployments
+	- Homelab | 4 years
+	- Daily usage | 3+ years
+- Programming | Every following skill
+	- C#
+		- 2 years at InvestorCOM writing ASP.NET MVC backends, Blazor WASM SPAs, RabbitMQ Workers, an ETL application
+			and the occasional command line tool
+		- 1 year at InvestorCOM maintaining legacy applications
+		- 10 months at Canadian Coalition for Green Health Care writing an ASP.NET MVC application
+		- 4 months at Orbis communications adding features to an existing system and writing a Visual Studio extension
+	- C
+		- The occasional command line tool at InvestorCOM
+		- My 6502 emulator
+		- FastWC, a wc clone that uses SIMD to count UTF-8 characters
+	- Zig
+		- HTTZ | An HTTP server written in Zig as a hobby project
+	- Odin
+		- A cross platform template for applications interfacing with Vulkan, using FFI hooks into Wayland
+	- Javascript
+		- The occasional front-end use case not covered by Blazor WASM at InvestorCOM
+		- Front-end work for Canadian Coalition for Green Healthcare and Orbis Communications
+		- An electron based app for translators at Orbis Communications
+	- SIMD
+		- FastWC
+	- FFI
+		- Cross platform Vulkan application template
+
 ## Work History
 
 ### Intermediate Software Developer | 2023-11-01 - 2024-06-28
@@ -23,9 +55,9 @@ simplicity, performance and maintainability.
 #### InvestorCOM
 
 - Designed and implemented a RabbitMQ spam tool to verify the effects of worker processes including memory leaks.
-    Written in C#.
+	Written in C#.
 - Contributions made to 8 internal repositories, totalling 26 binaries between Blazor based SPAs, APIs in ASP.NET and
-    worker applications, 9 databases, 4 blob storages in one distributed system written primarily in C#.
+	worker applications, 9 databases, 4 blob storages in one distributed system written primarily in C#.
 - Responsible in part for incident response.
 
 ### Junior Software Developer | 2022-06-27 - 2023-10-31
@@ -33,14 +65,14 @@ simplicity, performance and maintainability.
 #### InvestorCOM
 
 - Designed and implemented a static code analyzer looking for C-style string literals, saving 2 days of work searching
-    for string literals to verify the contents had no security implications. Written in C.
+	for string literals to verify the contents had no security implications. Written in C.
 - Designed and implemented a code generation utility utilizing the rows of a CSV and a template file as input. Written
-    in C#.
+	in C#.
 - Contributed to the rewrite of 2 legacy services.
 - Major contributor to 2 completely green field developments.
 - Contributions made to 11 internal repositories deployed to production, totalling 28 binaries between Blazor based
-    SPAs, APIs in ASP.NET and worker applications, 10 databases, 4 blob storages in one distributed system written
-    primarily in C#.
+	SPAs, APIs in ASP.NET and worker applications, 10 databases, 4 blob storages in one distributed system written
+	primarily in C#.
 - Responsible in part for incident response.
 
 ### Junior Software Developer | 2021-06-28 - 2022-03-31
@@ -49,7 +81,7 @@ simplicity, performance and maintainability.
 
 - Extended an existing Wordpress site with file sharing functionality.
 - MVP, mock and implement features for a new survey platform written in C# using ASP.NET MVC with CosmoDB and MSSQL as
-    backing stores deployed in Azure.
+	backing stores deployed in Azure.
 
 ### Full Stack Software Developer Internship | 2019-09-03 - 2019-12-23
 
@@ -91,15 +123,3 @@ Advanced Diploma (~Associate's Degree)
 Maj: Computer Sicence
 
 ### Self Education | 2009-02-XX - Present
-
-#### Notable skills:
-
-- Programming
-- C
-- C++
-- SIMD
-- Git
-- Odin
-- Zig
-- Optimization
-- Javascript
