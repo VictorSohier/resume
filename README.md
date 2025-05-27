@@ -5,54 +5,20 @@ Email: [1sohiervic@gmail.com](mailto:1sohiervic@gmail.com)
 Phone (mobile): (905) 741-6062
 
 [Linkedin](https://www.linkedin.com/in/victor-s-57309a137/)
-
-## Summary
+[Gitlab](https://gitlab.com/T3CHN01200)
 
 A polyglot procedural ***programmer*** with 4 years of work experience who strives for excellence with no compromises
 between simplicity, performance and maintainability.
 
-## Portfolios
+## Keywords
 
-[Gitlab](https://gitlab.com/T3CHN01200) -
-[Github](https://github.com/VictorSohier)
+## Education
 
-## Skills
+Advanced Diploma in Computer Information Systems: Mohawk College; Hamilton, Canada 2020
 
-- Git
-	- Literally every project listed here uses git for version control
-- Linux
-	- Web server deployments
-	- Homelab | 4 years
-	- Daily usage | 3+ years
-- Programming | Every following skill
-	- C#
-		- 2 years at InvestorCOM writing ASP.NET MVC backends, Blazor WASM SPAs, RabbitMQ Workers, an ETL application
-			and the occasional command line tool
-		- 1 year at InvestorCOM maintaining legacy applications
-		- 10 months at Canadian Coalition for Green Health Care writing an ASP.NET MVC application
-		- 4 months at Orbis communications adding features to an existing system and writing a Visual Studio extension
-	- C
-		- The occasional command line tool at InvestorCOM
-		- My 6502 emulator
-		- FastWC, a wc clone that uses SIMD to count UTF-8 characters
-	- Zig
-		- HTTZ | An HTTP server written in Zig as a hobby project
-	- Odin
-		- A cross platform template for applications interfacing with Vulkan, using FFI hooks into Wayland
-	- Javascript
-		- The occasional front-end use case not covered by Blazor WASM at InvestorCOM
-		- Front-end work for Canadian Coalition for Green Healthcare and Orbis Communications
-		- An electron based app for translators at Orbis Communications
-	- SIMD
-		- FastWC
-	- FFI
-		- Cross platform Vulkan application template
+## Professional Employment
 
-## Work History
-
-### Intermediate Software Developer | 2023-11-01 - 2024-06-28
-
-#### InvestorCOM
+November 2023 - June 2024: Intermediate Software Developer; InvestorCOM
 
 - Designed and implemented a RabbitMQ spam tool to verify the effects of worker processes including memory leaks.
 	Written in C#.
@@ -60,9 +26,7 @@ between simplicity, performance and maintainability.
 	worker applications, 9 databases, 4 blob storages in one distributed system written primarily in C#.
 - Responsible in part for incident response.
 
-### Junior Software Developer | 2022-06-27 - 2023-10-31
-
-#### InvestorCOM
+June 2022 - October 2023: Junior Software Developer; InvestorCOM
 
 - Designed and implemented a static code analyzer looking for C-style string literals, saving 2 days of work searching
 	for string literals to verify the contents had no security implications. Written in C.
@@ -75,49 +39,28 @@ between simplicity, performance and maintainability.
 	primarily in C#.
 - Responsible in part for incident response.
 
-### Junior Software Developer | 2021-06-28 - 2022-03-31
-
-#### Canadian Coalition for Green Health Care
+June 2021 - March 2022: Junior Software Developer; Canadian Coalition for Green Health Care
 
 - Extended an existing Wordpress site with file sharing functionality.
 - MVP, mock and implement features for a new survey platform written in C# using ASP.NET MVC with CosmoDB and MSSQL as
 	backing stores deployed in Azure.
 
-### Full Stack Software Developer Internship | 2019-09-03 - 2019-12-23
-
-#### Orbis Communications
+September 2019 - December 2019: Full Stack Software Developer Internship; Orbis Communications
 
 - Contrirbuted to a monolithic ASP.NET Core 3.0 MVC codebase with small bits of Vue.js
 - Contrirbuted to a Visual Studio extenssion for easy an addition of language snippets to localization resources
 - Built out the bulk of a data grid system
 - Wrote an Electron app for translators to be better able to translate the XML based localization resources
 
-## Projects
+## Computer Expertise Summary
 
-### [HTTZ Server](https://gitlab.com/T3CHN01200/httz-server)
+|                                   |                                                                                                                                      |
+|-----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| Hardware & Operating Systems      | x86/64, ARM, Linux, Windows, BSD                                                                                                     |
+| Languages/Tools                   | C#, Zig, Odin, C, C++, Javascript, Python, CSS, Java, Markdown, Bash, SQL, Neovim, Visual Studio, Relational Databases, Git, Node.js |
+| Parallel Programming              | Microservices, Client-Server, SIMD                                                                                                   |
+| Numerical Analysis                | Statistics, Optimization, Linear Algebra                                                                                             |
 
-My very own HTTP server written in Zig with absolutely no third party dependencies. Built from basic sockets.
+## Other Skills
 
-### [WL Odin](https://gitlab.com/T3CHN01200/wl-odin)
-
-Wayland bindings for Odin
-
-### [FastWC](https://gitlab.com/T3CHN01200/FastWC)
-
-An attempt at a faster WC written in C. Works with UTF-8 and SIMD-ized
-
-### [6502 Emulator](https://gitlab.com/T3CHN01200/6502-emulator)
-
-An application written in C to emulate the behavior of a 6502 and meant to be extensible to variants thereof.
-
-### Home Lab
-
-My proxmox based home lab that hosts my NAS
-
-## Education
-
-### Mohawk College | 2017-09-04 - 2020-12-24
-
-Advanced Diploma (~Associate's Degree)
-
-Maj: Computer Sicence
+- Problem Solving
