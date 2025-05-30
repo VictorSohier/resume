@@ -4,7 +4,7 @@ Email: [1sohiervic@gmail.com](mailto:1sohiervic@gmail.com)
 
 Phone (mobile): (905) 741-6062
 
-[Linkedin](https://www.linkedin.com/in/victor-s-57309a137/)
+[Linkedin](https://www.linkedin.com/in/victor-sohier)
 [Gitlab](https://gitlab.com/T3CHN01200)
 
 A polyglot procedural ***programmer*** with 4 years of work experience who strives for excellence with no compromises
