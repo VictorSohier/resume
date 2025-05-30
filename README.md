@@ -6,7 +6,7 @@ Phone (mobile): (905) 741-6062
 
 Hamilton, Ontario
 
-[Linkedin](https://www.linkedin.com/in/victor-s-57309a137/)
+[Linkedin](https://www.linkedin.com/in/victor-sohier/)
 
 ## Portfolios
 
