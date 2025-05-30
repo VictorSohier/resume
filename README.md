@@ -4,7 +4,7 @@ Email: [1sohiervic@gmail.com](mailto:1sohiervic@gmail.com)
 
 Phone (mobile): (905) 741-6062
 
-[Linkedin](https://www.linkedin.com/in/victor-s-57309a137/)
+[Linkedin](https://www.linkedin.com/in/victor-sohier/)
 
 ## Portfolios
 
